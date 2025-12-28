@@ -1,31 +1,65 @@
 # Consumer Spending Analysis
 
-Problem:
-Understand consumer spending patterns and identify trends that could inform budgeting, pricing, or policy decisions.
+## Project Overview
+This project analyzes consumer spending data to identify trends, category behavior, and changes over time. The goal is to translate raw spending data into insights that can support business planning, budgeting, and strategic decision-making.
 
-Data:
-Public consumer spending datasets covering multiple categories and time periods.
+---
 
-Methods:
+## Problem Statement
+Consumer spending behavior shifts over time due to economic conditions, seasonality, and category-specific factors. This analysis explores how spending patterns change across categories and periods, and identifies which areas drive overall spending trends.
 
-Data cleaning and normalization
+---
 
-Exploratory data analysis
+## Data
+- Publicly available consumer spending dataset  
+- Includes multiple spending categories across defined time periods  
+- Data required cleaning and normalization prior to analysis  
 
-Trend and category comparison
+---
 
-Visualization of spending patterns
+## Tools & Methods
+- **Python (Pandas, NumPy):** data cleaning, transformation, and analysis  
+- **Exploratory Data Analysis (EDA):** trend identification and category comparison  
+- **Data Visualization:** charts and plots to highlight spending behavior  
 
-Results:
+Key steps included:
+- Cleaning and standardizing category data  
+- Aggregating spending metrics by category and time period  
+- Comparing trends between essential and discretionary spending  
 
-Identified key spending categories driving overall growth
+---
 
-Highlighted seasonal and category-specific shifts
+## Key Findings
+- Certain spending categories consistently drove overall spending growth  
+- Seasonal patterns were observed across multiple categories  
+- Discretionary spending showed higher volatility compared to essential categories  
+- Clear trend differences emerged when comparing short-term fluctuations to longer-term behavior  
 
-Revealed volatility differences between essential and discretionary spending
+---
 
-Impact
-Provides insight into how consumer behavior changes over time, supporting strategic planning and resource allocation.
+## Impact / Use Case
+The insights from this analysis can be used to:
+- Support budgeting and financial planning decisions  
+- Identify high-impact spending categories  
+- Inform forecasting and resource allocation efforts  
 
-Resume Bullet (short)
-Cleaned and analyzed consumer spending data to identify category trends and spending drivers; translated findings into actionable insights using visual analysis.
+This type of analysis is directly applicable to operations, finance, and business analytics roles where understanding consumer behavior is critical.
+
+---
+
+## Repository Contents
+- Jupyter Notebook containing data cleaning, analysis, and visualizations  
+- Supporting data files (if included)  
+- Generated charts and outputs  
+
+---
+
+## Next Steps
+- Incorporate additional time periods or external economic indicators  
+- Expand analysis to include regional or demographic breakdowns  
+- Build a dashboard to present trends to non-technical stakeholders  
+
+---
+
+## Resume-Ready Summary
+**Consumer Spending Analysis** – Cleaned and analyzed consumer spending data to identify category trends and seasonal behavior; translated findings into actionable insights through exploratory analysis and visualizations.
