@@ -1,12 +1,12 @@
 # Consumer Spending Analysis
 
-Problem
+Problem:
 Understand consumer spending patterns and identify trends that could inform budgeting, pricing, or policy decisions.
 
-Data
+Data:
 Public consumer spending datasets covering multiple categories and time periods.
 
-Methods
+Methods:
 
 Data cleaning and normalization
 
@@ -16,7 +16,7 @@ Trend and category comparison
 
 Visualization of spending patterns
 
-Results
+Results:
 
 Identified key spending categories driving overall growth
 
